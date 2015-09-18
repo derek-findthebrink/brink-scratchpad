@@ -1,0 +1,44 @@
+{
+  "name": "brink-scratchpad",
+  "version": "1.0.0",
+  "description": "javascript, css, html scratchpad for rapidly testing new code",
+  "main": "build/scratchpad.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/findthebrink/brink-scratchpad.git"
+  },
+  "keywords": [
+    "scratchpad",
+    "scratch",
+    "javascript",
+    "js",
+    "coffee",
+    "sass",
+    "jade",
+    "html",
+    "css",
+    "test",
+    "rapid",
+    "quick",
+    "brink",
+    "brink",
+    "technology",
+    "awesome",
+    "learn",
+    "features",
+    "new",
+    "features",
+    "test",
+    "new",
+    "features"
+  ],
+  "author": "Derek Moore <repos@findthebrink.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/findthebrink/brink-scratchpad/issues"
+  },
+  "homepage": "https://github.com/findthebrink/brink-scratchpad#readme"
+}
